@@ -1,0 +1,2 @@
+# Bookshop-Automation-System-using-PHP
+Here, User can easily login/register the site and search for the books they want. User can also purchase online and different types of Payment Options are available for the users. Books are divided into several Categories which makes user easy to find. It’s easy to operate and understand by users. The design is pretty simple and user won’t find it difficult to understand, use and navigate.
